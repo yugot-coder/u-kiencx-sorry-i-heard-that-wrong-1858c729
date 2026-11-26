@@ -1,0 +1,27 @@
+# Prompt / brief — "Sorry, I Heard That Wrong"
+
+Write the funniest one-line apology a smart speaker gives its owner
+after mishearing them. One line, at most 140 characters, nothing else.
+
+Rules for the line:
+- It must read as something the speaker would actually say out loud:
+  start with an apology ("Sorry." / "Sorry —"), quote what the owner
+  said, quote what the device heard instead, then state the (absurd)
+  consequence of acting on the mishearing.
+- Humour first: the line needs a sharp twist or a perfectly timed
+  undercut, not a strained pun. The funniest consequence wins.
+- Freshness second: avoid the obvious misheard song title and the
+  obvious misheard name. The judge has heard every misheard-command
+  joke twice — the mishearing itself must be new.
+- Device voice third: the phrasing, the apology and the deadpan
+  reporting must fit a speaker that has just misheard its owner.
+- Tight last: one line, well inside 140 characters, every word
+  earning its place. Plain ASCII, no emojis, no formatting.
+
+Brainstorm across different angles before choosing: a misheard alarm,
+a misheard timer, a misheard shopping order, a misheard music request,
+a misheard phone call, a misheard goodnight, a misheard reminder,
+a misheard lights command, a misheard lock command, a misheard
+"play something chill". For each candidate note why it is funny,
+why it is fresh, and how it sounds like the device — then pick the
+single strongest line for head-to-head judging.
