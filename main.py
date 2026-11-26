@@ -17,6 +17,10 @@ ENTRY = (
     "so there's a man named Kevin in your kitchen."
 )
 
+# Gate: entry is one line of 1-140 characters, never just whitespace.
+assert "\n" not in ENTRY and "\r" not in ENTRY, "entry must be a single line"
+assert 1 <= len(ENTRY) <= 140 and ENTRY.strip(), len(ENTRY)
+
 
 def main() -> int:
     try:
